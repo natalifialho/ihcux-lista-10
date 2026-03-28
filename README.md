@@ -16,3 +16,4 @@ Avaliação: Feedback sobre o atendimento no local.
 O usuário acessa o sistema, escolhe o estabelecimento desejado, entra na fila virtualmente, aguarda sua vez acompanhando o status pelo app e, ao final, avalia a experiência.
 ## 📸 Evidência de Execução
 ![Foto do meu terminal](./screenshot.png)
+<img width="1353" height="578" alt="prototico" src="https://github.com/user-attachments/assets/254f42d9-de8d-4266-bc63-ce37463cf2f9" />
